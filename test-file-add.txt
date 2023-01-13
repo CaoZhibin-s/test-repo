@@ -3,3 +3,5 @@ add
 add3
 add4
 new_function_add
+add-file
+hotfix
