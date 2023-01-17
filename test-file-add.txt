@@ -9,3 +9,4 @@ test2
 test4
 test7
 commit3
+func-1
